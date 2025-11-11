@@ -40,5 +40,26 @@ This task helped in:
 
 ---
 
-### ✅ Output Example
+## 🧠 Day 2 — Research Reading Summary (AI × Cybersecurity)
+
+### 📖 Topics Covered:
+- Read through **Definition of Terms and Abbreviations** from AI & Cybersecurity Research Paper.
+- Explored **Machine Learning categories**:
+  - **Supervised Learning:** Uses labeled data to train models for known outputs.
+  - **Unsupervised Learning:** Works on unlabeled data to find hidden patterns or clusters.
+  - **Reinforcement Learning:** Learns from **historical + repetitive feedback** to improve actions over time.
+
+### 🤖 Models Understood:
+- **Decision Trees (DT):** Based on *if-else* logic to split and classify data; easy to interpret and visualize.
+- **Hidden Markov Model (HMM):** Considers *both visible and hidden (invisible)* states — useful in cybersecurity to detect unseen threats from observable activity.
+- **Ensemble Methods:** Combines multiple models to improve accuracy and reduce bias.
+  
+### 🧩 Key Insights:
+- The **three learning pillars** — *supervised, unsupervised, reinforced* — form the base of all intelligent systems.
+- **HMM’s dual-state understanding** is especially relevant for identifying stealth-based cyber attacks.
+- Intuitive understanding > memorization — today's focus was on **grasping logic over complexity**.
+  
+### 🧭 Reflection:
+Even with limited reading today, the **depth of understanding improved** — intuition and self-learning mindset remain the real strengths.  
+Learning continues tomorrow with a deeper dive into **Neural Networks** and **AI use-cases in Cybersecurity**.
 
