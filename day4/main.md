@@ -34,6 +34,57 @@ Create a program that:
 
 ---
 
-**🔥 Core Mindset Reminder:**  
-> Don’t just write syntax — *design logic like a system builder.*
+# 🚀 Day 4 — Traditional Machine Learning in Cybersecurity
+
+## 🎯 Focus
+Understanding core Machine Learning (ML) algorithms and their relevance in cyber threat detection and defense systems.
+
+---
+
+## 📘 Topics Covered
+
+1. **Decision Tree (DT)**
+   - Works on labeled data using rule-based branching (if–else logic).
+   - Efficient and interpretable but may miss deeper patterns due to greedy nature.
+
+2. **Support Vector Machine (SVM)**
+   - Classifies data by finding the optimal boundary (hyperplane).
+   - Commonly used for distinguishing between safe and risky network behavior.
+
+3. **Naive Bayes (NB)**
+   - Uses probabilities of each feature independently (hence *Naive*).
+   - Effective for spam filtering, malware detection, and risk classification.
+
+4. **K-Means Clustering**
+   - Unsupervised algorithm that groups similar data points.
+   - Useful for discovering hidden patterns or unknown threats in raw data.
+
+5. **Hidden Markov Model (HMM)**
+   - Detects *hidden states* in sequential data.
+   - Applied in intrusion detection systems to uncover stealthy, time-based attacks.
+
+6. **Genetic Algorithm (GA)**
+   - Uses mutation and selection to iteratively find the best defense strategies.
+   - Helpful in adaptive security systems and anomaly optimization.
+
+---
+
+## 🧠 Insights
+
+- Built conceptual clarity on how **traditional ML models** power cybersecurity solutions.
+- Understood the difference between **supervised** and **unsupervised** approaches in intrusion detection.
+- Observed how each algorithm maps to a real-world cyber use case (classification, anomaly detection, optimization).
+
+---
+
+## 🔮 Next Step (Day 5)
+
+> Dive into **Neural Networks & Deep Learning in Cybersecurity**  
+> to explore how modern AI extends and automates traditional ML logic.
+
+---
+
+**📅 Logged by:** *[Your Name]*  
+**📂 Folder:** `/day4/README.md`
+
 
