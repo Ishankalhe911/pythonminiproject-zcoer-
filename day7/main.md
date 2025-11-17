@@ -56,3 +56,52 @@ To improve code readability (Pythonic style)
 
 🔸 Quick Summary
 enumerate() = loop through list with automatic (index, value) pairs.
+
+
+
+
+
+
+
+
+
+
+
+
+# 📚 Student Data Processing System — Summary
+
+This program collects student names and their marks, stores them in lists,  
+and allows the user to calculate **Average**, **Maximum**, and **Minimum** marks.
+
+## 🔧 Features Implemented
+- Accepts total number of students  
+- Stores each student's name and marks  
+- Calculates:
+  - **Average Marks**
+  - **Highest Marks + Student Name**
+  - **Lowest Marks + Student Name**
+- Menu-based selection for user convenience  
+- Uses functions for clean and modular code
+
+## 🧠 Logic Overview
+- **Lists Used**  
+  - `nmlist` → stores student names  
+  - `mkslist` → stores corresponding marks  
+- **Functions**
+  - `avg()` → calculates average marks  
+  - `find_max()` → finds the student with highest marks  
+  - `find_min()` → finds the student with lowest marks  
+
+## 📝 Workflow
+1. User enters number of students  
+2. Inputs each student's name and marks  
+3. Selects:
+   - `1` → Average marks  
+   - `2` → Highest marks  
+   - `3` → Lowest marks  
+4. Program prints the selected result
+
+---
+
+This summary explains the full working of your Student Data Analysis program in a clean and professional GitHub-friendly format.
+
