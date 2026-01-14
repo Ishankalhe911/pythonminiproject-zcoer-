@@ -56,4 +56,3 @@ Today’s focus was on manual data manipulation. Instead of relying on built-in 
 
 ---
 
-**Would you like me to create a template for your Day 11 Python file to help you get started?**
