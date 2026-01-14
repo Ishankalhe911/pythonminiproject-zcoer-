@@ -1,7 +1,3 @@
-Here is a clean, organized summary of your Day 10 progress formatted as a Markdown file. You can copy and paste this into your notes or a `README.md` file in your workspace.
-
----
-
 # Day 10: Advanced List Logic & Iteration
 
 ## 📝 Overview
