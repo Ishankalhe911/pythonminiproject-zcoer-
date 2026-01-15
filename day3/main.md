@@ -27,7 +27,7 @@
 - Functions help keep code modular, reusable, and clean  
 - Data can flow between functions via parameters and return values  
 - Lists simplify handling multiple inputs dynamically  
-- Understanding “how data travels” between functions improves logic building  
+- Understanding “how data travels” between functions improves logic building.  
 
 ---
 
