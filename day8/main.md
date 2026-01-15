@@ -54,7 +54,7 @@
   - Math depth (activation functions, gradient descent).
   - Advanced CNN architectures (ResNet, VGG).
   - LSTM/GRU internals.
-  - Transformers, GANs, deployment concepts.
+  - Transformers, GANs, deployment concepts..
 
 ---
 
