@@ -52,7 +52,7 @@ This task helped in:
 ### 🤖 Models Understood:
 - **Decision Trees (DT):** Based on *if-else* logic to split and classify data; easy to interpret and visualize.
 - **Hidden Markov Model (HMM):** Considers *both visible and hidden (invisible)* states — useful in cybersecurity to detect unseen threats from observable activity.
-- **Ensemble Methods:** Combines multiple models to improve accuracy and reduce bias.
+- **Ensemble Methods:** Combines multiple models to improve accuracy and reduce bias..
   
 ### 🧩 Key Insights:
 - The **three learning pillars** — *supervised, unsupervised, reinforced* — form the base of all intelligent systems.
