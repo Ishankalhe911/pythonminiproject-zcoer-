@@ -25,40 +25,29 @@
 #The second task is to count the number of each element without using dictionary
 
 print("Welcome to List Frequency Checker")
-count=int(input(("Firstly tell me how many elements you wanna keep in your list")))
-data=[]
+count = int(input("Firstly tell me how many elements you wanna keep in your list: "))
+data = []
 for i in range(count):
-    el=int(input("Tell me the element you wanna add in the list"))
+    el = int(input("Tell me the element you wanna add in the list: "))
     data.append(el)
-print(data) 
+print(data)
 
-
-numb=[]
+numb = []  # Track unique elements found
 for i in range(count):
-    num=data[i]
-   
-
+    num = data[i]
+    skipcnt = 0
     
-    skipcnt=0
-
-    for k in range (len(numb)):
-        if(num==numb[k]):
-         skipcnt=1
-        
-
-    if skipcnt==0:
-        freq=0
+    # Check if already counted
+    for k in range(len(numb)):
+        if num == numb[k]:
+            skipcnt = 1
+            break  # Added break for efficiency
+    
+    if skipcnt == 0:
+        freq = 0
         for j in range(count):
-          
-            
+            if data[j] == num:
+                freq += 1
         
-         if data[j]==num:
-          freq+=1
-          numb.append(num)
-
-        print("Frequency of element " ,num ,"is",freq)
-
-    
-    
-
-
+        numb.append(num)  # Append only once after counting
+        print("Frequency of element", num, "is", freq)
