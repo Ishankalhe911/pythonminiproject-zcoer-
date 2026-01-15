@@ -49,5 +49,5 @@ for i in range(count):
             if data[j] == num:
                 freq += 1
         
-        numb.append(num)  # Append only once after counting
+        numb.append(num)  
         print("Frequency of element", num, "is", freq)
