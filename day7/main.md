@@ -1,4 +1,4 @@
-# 🔹 Understanding `enumerate()` in Python
+# 🔹 Understanding `enumerate()` in Python..
 
 `enumerate()` is a built-in Python function that allows you to loop over a list **while getting both the index and the value** at the same time.
 
