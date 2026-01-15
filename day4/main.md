@@ -24,7 +24,7 @@ Create a program that:
 - Strengthened grasp of **functions** and how data flows through parameters and return values.  
 - Learned how **parallel lists** can represent linked data structures.  
 - Reinforced thinking around **structured programming**, a key skill before diving into dictionaries or OOP.  
-- Practiced writing clean, modular, and logical Python code.  
+- Practiced writing clean, modular, and logical Python code..
 
 ---
 
