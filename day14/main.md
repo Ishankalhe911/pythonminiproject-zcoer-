@@ -1,4 +1,4 @@
-# 📘 Python Notes – Chapter 3 & 4 (Apna College Playlist)
+# Day 14
 
 ## ✅ Topics Covered
 - **Sets**
