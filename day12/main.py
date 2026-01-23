@@ -118,3 +118,8 @@ while cn==1:
     
 
             
+displayall()
+
+            
+
+    
