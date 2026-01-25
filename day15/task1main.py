@@ -1,13 +1,11 @@
 #🧩 TASK 1 — Mean (from scratch)
 #Handle:
-
 #empty list → raise a clear error
-
 #list with one element
-
 #Do manual summation
-
 #Return a float
+
+
 def mean(values):
 
     """
@@ -18,25 +16,14 @@ def mean(values):
     
     
     total=0
+    if(len(values))==0:
+        raise ValueError("Cannot compute mean of empty list")
 
     for i in range(len(values)):
         
         total=total+(values[i])
-    if(len(values))==0:
-        raise ValueError("Cannot compute mean of empty list")
-    elif total==0:
-        mean=0
-        return mean
-    elif len(values) == 1: 
-        mean=float(values[0])
-        return mean
-
-        
-    elif total==1:
-        mean=1
-        return mean
-    else:
-        mean=total/len(values)
+    
+    mean=total/len(values)
     
 
         return mean
@@ -57,7 +44,7 @@ def variance(values):
     
 
     variance=summation/len(values)
-    print(variance)
+    return variance
 
 variance([100])
 
