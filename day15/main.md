@@ -1,6 +1,6 @@
 ## 📅 Day 16 — Data Normalization & Scaling (Foundations for ML)
 
-### 🎯 Objective
+### 🎯 Objective...
 
 Strengthen Python fundamentals while building **ML-ready data discipline**:
 
