@@ -26,7 +26,7 @@ def mean(values):
     mean=total/len(values)
     
 
-        return mean
+    return mean
  
 
 def variance(values):
