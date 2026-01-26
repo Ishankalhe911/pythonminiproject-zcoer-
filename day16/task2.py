@@ -86,4 +86,4 @@ def mean_normalize(values):
      return norm_list
 
 
-print(mean_normalize([10,20,30]))
+print(mean_normalize([10,20,10]))

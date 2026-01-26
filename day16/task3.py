@@ -81,7 +81,7 @@ def min_max_scale(values):
       return minmaxlst
 
 
-print(min_max_scale([10,10,10,10]))
+print(min_max_scale([10,20,10]))
          
      
 
