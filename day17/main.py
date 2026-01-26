@@ -120,3 +120,27 @@ print(std_deviation([10,20,30]))
 #a2) so see here we did the (x-mean) so we got the variance of that specific value or data from the avg of the dataset hence to find a single avg of all the variane at the last we do divide by N hence we get final avg variance of the dataset
 
 #a3)as variance is a quanity which tells us by varyness of the dataset and which surely logically can't be negetive at all and for that also we do the square and from there we can get the standard deviation of the whole dataset 
+
+
+def zscorenorm(values):
+    #given that zscorenormalized list= for each v in list
+    #zcorenormalization element=v-mean/std_dev 
+    zeroscorelst=[]
+    mn=mean(values)
+    vstd=std_deviation(values)
+    for v in values:
+        newel=(v-mn)/vstd
+        zeroscorelst.append(newel)
+
+    return zeroscorelst
+
+
+
+
+
+
+print(zscorenorm([10,20,30,40]))
+
+
+
+
