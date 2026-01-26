@@ -14,9 +14,9 @@ The foundation requires calculating the mean and how much the data "spreads" (va
 
 **Mathematical Formulas:**
 
-* **Mean ():** 
-* **Population Variance ():** 
-* **Standard Deviation ():** 
+* **Mean ():=sum of all terms /totalno of terms** 
+* **Population Variance (): summation from  all 0 to N of(v-mean)^2/totalno of values** 
+* **Standard Deviation (): sqrt of Variance or 0.5 ** **variance**** 
 
 ```python
 def mean(values):
@@ -47,7 +47,7 @@ def std_deviation(values):
 
 This function transforms data to have a **mean of 0** and a **standard deviation of 1**.
 
-**Formula:** 
+**Formula: new element of z score normalization list= v-mean/std_dev** 
 
 ```python
 def zscorenorm(values):
